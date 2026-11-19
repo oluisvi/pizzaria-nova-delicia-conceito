@@ -5,7 +5,7 @@ Vitrine demonstrativa mobile-first para a Pizzaria Nova Delícia, em Jacareí. O
 ## Abrir
 - Site: `index.html`
 - Prancha responsiva: `arte/prancha.html`
-- PNG para apresentação: `arte/pizzaria-nova-delicia-prancha.png`
+- PNG para apresentação: `arte/pizzaria-nova-delicia-prancha.png` (prancha ilustrativa em três dispositivos)
 
 ## Conteúdo e limites
 - Inclui uma seleção de 18 sabores do material recebido, busca, filtro e lista de consulta via WhatsApp.
@@ -15,3 +15,4 @@ Vitrine demonstrativa mobile-first para a Pizzaria Nova Delícia, em Jacareí. O
 
 ## Contatos e endereço divulgados
 Rua General Carneiro, 217, Centro, Jacareí–SP. WhatsApp (12) 98157-6204. Telefones (12) 3953-3327 e (12) 3953-3339. Horário divulgado: terça a domingo, 18h–0h; confirmar antes de publicar.
+
